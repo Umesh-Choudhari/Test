@@ -14,4 +14,5 @@ public:
 private:
     Ui::TestClass ui;
     std::vector<int> vec;
+    std::vector<int> vec1;
 };
