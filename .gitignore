@@ -1,0 +1,5 @@
+.vs
+Test/x64
+Test/Test.vcxproj.user
+Test/Test.vcxproj.filters
+Test/Test.vcxproj
