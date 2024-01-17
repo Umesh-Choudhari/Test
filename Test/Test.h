@@ -14,6 +14,7 @@ public:
 private:
     Ui::TestClass ui;
     std::vector<int> vec;
+    std::vector<std::string> vec1;
     std::vector<int> vec1;
     std::vector<float> vec1;
 };
